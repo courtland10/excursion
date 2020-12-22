@@ -3,15 +3,20 @@
 body {
     background-color: black;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, sans-serif;
     color: white;
 }
 
 /* Page Header and link to app */
 
 h1 {
-    size: 50px;
     font-weight: normal;
+    font-size: 50px;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 a {
@@ -20,11 +25,31 @@ a {
 }
 
 /* App Example Video Section */
+h2 {
+    font-weight: 200;
+    font-size: 42px;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 
-
+p {
+    color: grey;
+    font-size: 21px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 
 /* App Explination Section */
 
 
 
 /* Page Footer and CTA */
+.copyright {
+    text-align: right;
+}
