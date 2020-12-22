@@ -1,0 +1,30 @@
+/* Global Styles*/
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+/* Page Header and link to app */
+
+h1 {
+    size: 50px;
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* App Example Video Section */
+
+
+
+/* App Explination Section */
+
+
+
+/* Page Footer and CTA */
